@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club
+> Leading Club Detail
 
 
 ## Table of Contents
@@ -42,7 +42,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@aerokhaleel] - feel free to contact me!
 
 
 <!-- Optional -->
